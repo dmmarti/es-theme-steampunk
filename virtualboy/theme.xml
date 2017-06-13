@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+
+	<view name="system, basic, detailed, video">
+		<image name="logo">
+			<path>./_inc/system.png</path>
+		</image>
+	</view>
+
+	<view name="system">
+                <image name="systemsnap" extra="true">
+                   <origin>0 0</origin>
+                   <pos>0.365 0.165</pos>
+                   <size>0.535 0.67</size>
+                   <zIndex>5</zIndex>
+                   <path>./_inc/systemsnap.png</path>
+                </image>
+	</view>
+
+</theme>
