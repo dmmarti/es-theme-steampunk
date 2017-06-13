@@ -2,9 +2,7 @@
 
 OVERVIEW
 
-This ZIP package contains the new Steampunk theme that is to be used within Emulation Station.
-
-Follow the instructions below for installation.
+This ZIP package contains the Steampunk theme that is to be used within Emulation Station.
 
 **NOTE**
 
@@ -14,33 +12,14 @@ Emulation Station provides additional support for placing them into a different 
 different folder is that the default user "pi" has full read/write access.  You no longer have to be user "root" to
 copy over files or swap out files.  
 
-By default, this new "themes" folder does not exist, so simply create it as instructed below.
+By default, this new "themes" folder does not exist, so simply create it.
 
---------------------------------------------------
+/opt/retropie/configs/all/emulationstation/themes
 
-INSTALLATION INSTRUCTIONS
-
-1.  download the ZIP file and extract
-
-2.  copy the new themes folder "steampunk" to the following location
-
-    /opt/retropie/configs/all/emulationstation/themes
- 
-    if this folder does not currently exist, simply create it
-
-    final folder structure should look like this
-
-    /opt/retropie/configs/all/emulationstation/themes/steampunk
-
-    **NOTE**
-    You can also access this same folder by navigating this hidden folder
+**NOTE**
+You can also access this same folder by navigating this hidden folder
    
-    /home/pi/.emulationstation
-
-3. change the Emulation Station theme to "Steampunk"
-
-   press START on the gamepad and navigate to the UI SETTINGS
-   toward the bottom, change the current theme to "Steampunk"
+/home/pi/.emulationstation
 
 --------------------------------------------------
 
