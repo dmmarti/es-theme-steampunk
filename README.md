@@ -22,9 +22,6 @@ INSTALLATION INSTRUCTIONS
 
 1.  download the ZIP file and extract
 
-Inside is this ReadMe.txt file and additional subfolders.  You will need to copy these files 
-and subfolders over to your Pi to the appropriate locations.
-
 2.  copy the new themes folder "steampunk" to the following location
 
     /opt/retropie/configs/all/emulationstation/themes
