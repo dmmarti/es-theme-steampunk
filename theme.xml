@@ -148,7 +148,7 @@ version         1.0
       <image name="md_image">
          <origin>.5 .5</origin>
          <pos>0.215 0.25</pos>
-         <size>0.24 0.34</size>
+         <maxSize>0.24 0.34</maxSize>
       </image>
       <image name="md_marquee">
          <pos>0.725 0.075</pos>
@@ -166,7 +166,7 @@ version         1.0
       <video name="md_video">
          <origin>0.5 0.5</origin>
          <pos>0.215 0.25</pos>
-         <size>0.24 0.34</size>
+         <maxSize>0.24 0.34</maxSize>
          <delay>0.01</delay>
          <default>./_inc/videos/static.mp4</default>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
